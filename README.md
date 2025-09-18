@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @David rajput
-- 👀 I’m interested in making trading bot
+- 👀 I’m interested in making things bot our etc..
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on a person who no how to setup api's
 - 📫 How to reach me ...
